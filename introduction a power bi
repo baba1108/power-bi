@@ -1,0 +1,64 @@
+SQL Server Integration Services (SSIS):
+
+C'est un composant du logiciel de base de données Microsoft SQL Server.
+Une plateforme dédiée à l'intégration des données et des applications de flux de travail.
+
+
+SQL Server Analysis Services (SAAS):
+Une plateforme de stockage et de récupération de données dans la suite décisionnelle Microsoft BI.
+Principalement dédié à l'établissement de couches sémantiques appelé BI SM (Business Intelligence Semantic Model).
+
+
+
+Plateforme de reporting SQL Server Reporting Services (SSRS):
+. Elle fournit des fonctionnalités pour la création de rapports d'entreprise. Ces fonctionnalités permettent d'extraire et de formater des données provenant de nombreuses sources de données.
+
+
+Power BI:
+C'est un service d'analyse d'affaires proposé par Microsoft. Il vise à offrir des visualisations interactives et des capacités de business intelligence avec une interface utilisateur suffisamment simple pour créer des rapports et des tableaux de bord de manière autonome.
+Suite Power BI
+Power BI est un service d'analyse commerciale proposé par Microsoft.
+Il vise à offrir des visualisations interactives et des capacités de business intelligence avec une interface suffisamment simple. Ainsi, les utilisateurs finaux peuvent créer leurs propres rapports et tableaux de bord.
+Suite Power BI
+En quoi est-elle différente de ses homologues ? Power BI regroupe un ensemble d'étapes de business intelligence en un seul outil :
+Se connecter à différentes sources de données et être capable d'extraire les données.
+Nettoyer et transformer les données.
+Modéliser les données.
+Visualiser les données sous forme de visuels (rapports et tableaux de bord interactifs).
+Collaborer avec d'autres utilisateurs au sein de votre entreprise.
+Forces de la Suite Power BI
+Power BI est principalement un outil « convivial » conçu pour permettre à un plus grand nombre d'utilisateurs de prendre le contrôle de leurs données, de créer des rapports personnalisés et de les partager avec des collaborateurs. De cette manière, ils peuvent répondre à leurs besoins commerciaux sans avoir recours à un intermédiaire.
+
+
+Power BI Desktop:
+Version autonome et indépendante du produit Microsoft Business Intelligence.
+Power BI se compose de deux versions : une version de bureau et une version en ligne, avec pour objectif de charger, modéliser et visualiser des données.
+Pourquoi Power BI Desktop ?
+• Connecter, transformer et analyser des milliers de lignes de données
+Possibilité d'accéder à tous types de données (tables de bases de données, fichiers plats, services cloud, enregistrements, etc.).
+Power BI Desktop
+Power BI est le leader du marché par rapport aux autres plateformes de BI.Power BI est intuitif, puissant et gratuit. puissant et gratuit.
+
+
+Power BI Mobile:
+Une application mobile pour tous les appareils :
+Consultez et affichez en toute sécurité les rapports et tableaux de bord Power BI en temps réel. Cela peut se faire sur n'importe quel appareil de votre choix disposant d'applications BI natives et mobiles sur Windows, iOS ou Android.
+Connectez-vous en toute sécurité à vos données :
+Assurez le suivi de vos activités directement depuis votre téléphone.
+Accédez aux données locales stockées dans SQL Server ou aux données cloud.
+Maintenez le contrôle des indicateurs clés de performance (KPI) et des rapports en déplacement.
+Power BI Mobile
+Fonctionnalités :
+Visualisez, explorez et accélérez l'obtention d'insights.
+Affichez des tableaux de bord et des rapports en temps réel sur des appareils mobiles avec des visuels fluides et intuitifs.
+Partagez et collaborez en déplacement.
+Marquez facilement les rapports avec votre écran tactile et captez l'attention de votre équipe avec les nouvelles informations.
+Partagez les rapports et les tableaux de bord en temps réel via les applications mobiles.
+
+
+Restez informé.
+
+Recevez des notifications vous alertant sur les données personnelles de votre appareil.
+
+
+
